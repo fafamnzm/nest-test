@@ -13,6 +13,10 @@ Soo, here's a nest.js boiler plate for a simple generic RestAPI of user post usi
 
 Just a quick note, I changed the watch mode to start command instead of start:dev just because I could hhaha! I prefer it this way as it is easier and faster to type
 
+And We use postgres for db, So you have to have that installed and then create a databse name `nest-test`, otherwise you're gonna see some errors of db not found!
+
+Thank you
+
 ## Installation
 
 ```bash
